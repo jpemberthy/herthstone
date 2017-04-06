@@ -1,2 +1,0 @@
-# herthstone
-oh my
